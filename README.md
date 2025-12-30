@@ -13,5 +13,5 @@ I'm sure there are many ways that I could have gotten daily prompts for this por
 
 
 ### Links
-[Connecting Git](https://youtu.be/bUoN85QvC10?si=8Gn6JYTDgYAh-ket)
+[Connecting Git](https://youtu.be/bUoN85QvC10?si=8Gn6JYTDgYAh-ket)- A video by Riffomonas Project
 
